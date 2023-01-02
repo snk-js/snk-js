@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**snk-js/snk-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Juliano 👋
 
-Here are some ideas to get you started:
+💻 Frontend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Why do JavaScript developers wear glasses?
+Because they can't C
+
+<p align="center">
+ <img 
+      width="50%" 
+      src="https://media1.giphy.com/media/VbAFrrDVGAvZu/giphy.gif?cid=ecf05e47ui3wggz5c8g9layarftq9utfn9p8ovb1lbxvrpxq&rid=giphy.gif&ct=g" />
+</p>
+
+
