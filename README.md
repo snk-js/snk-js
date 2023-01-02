@@ -3,8 +3,8 @@
 
 💻 Frontend Engineer
 
-I may not be sure of my exact level of experience,
-but trust me, I can crank out backend and frontend work like a boss with minimal sweat.
+Just call me the go-to problem solver. I'm Brazil's premier frontend dude, proficient in JS/TS and serving up solutions for companies since 2016.
+I may not be sure of my exact level of experience, but trust me, I can crank out backend and frontend work like a boss with minimal sweat.
 
 ### beloved techs:
 
