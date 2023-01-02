@@ -21,9 +21,9 @@ Because they can't C#
  <img 
       width="20%" 
       src="https://media.tenor.com/xuNo8NDdwIkAAAAd/hackerman.gif" />
-  <img 
+ <img 
       width="20%" 
-      src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+      src="https://i.gifer.com/78wn.gif" />
 </p>
 
 
