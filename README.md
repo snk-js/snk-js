@@ -12,7 +12,7 @@ I may not be sure of my exact level of experience, but trust me, I can crank out
 
 
 Why do JavaScript developers wear glasses?
-Because they can't C
+Because they can't C#
 
 <p align="center">
  <img 
