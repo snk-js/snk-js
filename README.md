@@ -18,17 +18,13 @@ Because they can't C#
  <img 
       width="20%" 
       src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" />
-</p>
-<p>
  <img 
       width="20%" 
       src="https://media.tenor.com/xuNo8NDdwIkAAAAd/hackerman.gif" />
-</p>
-
-<p>
- <img 
+  <img 
       width="20%" 
       src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 </p>
+
 
 
