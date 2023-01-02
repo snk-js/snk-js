@@ -3,6 +3,7 @@
 
 💻 Frontend Engineer
 
+I may not be sure of my exact level of experience, but trust me, I can crank out backend and frontend work like a boss with minimal sweat.
 I love to play chess, I practice rowing and calisthenics and I am very curious on Graph Theory things.
 
 ### beloved techs:
