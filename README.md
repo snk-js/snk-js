@@ -15,7 +15,7 @@ Because they can't C
 
 <p align="center">
  <img 
-      width="50%" 
+      width="20%" 
       src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" />
 </p>
 
