@@ -1,10 +1,6 @@
 
 ### Hi there, I'm Juliano 👋
 
-Psichologist once said that I have a special type
-of awareness where it cares so much to the images I print out there;
-but I replied that I rather use console.log and not print.
-
 💻 Frontend Engineer
 
 Just call me the go-to problem solver. Proficient in JS/TS and serving up solutions for companies since 2016.
