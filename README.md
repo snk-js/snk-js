@@ -1,6 +1,10 @@
 
 ### Hi there, I'm Juliano 👋
 
+Psichologist once said that I have a special type
+of awareness where it cares so much to the images I print out there;
+but I replied that I rather use console.log and not print.
+
 💻 Frontend Engineer
 
 Just call me the go-to problem solver. Proficient in JS/TS and serving up solutions for companies since 2016.
@@ -17,4 +21,8 @@ Just call me the go-to problem solver. Proficient in JS/TS and serving up soluti
       src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" />
 
 
-
+> My psychologist once said that I have an uncommon
+> type of self-awareness where I am highly attuned 
+> to the way I print myself. I replied
+> "Sorry, Mrs Psichologist, 
+> you may have made a mistake, I do not use python" 
