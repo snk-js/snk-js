@@ -5,11 +5,7 @@
 
 Just call me the go-to problem solver. Proficient in JS/TS and serving up solutions for companies since 2016.
 
-I am developing a blazingly awesome openai webapp with their API's
-levering user experience by making stronger connections with AI data
-applying graph theory conceps for the best of well structured data
-in order for features like full-text search and concept of notes remembering
-been applied altogether for a meaningful habitual AI usage.
+I am developing a blazingly awesome openai webapp with their API's in my private repo
 
 ### beloved techs:
 
