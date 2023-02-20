@@ -9,7 +9,7 @@ I am developing a blazingly awesome openai webapp with their API's
 levering user experience by making stronger connections with AI data
 applying graph theory conceps for the best of well structured data
 in order for features like full-text search and concept of notes remembering
-been applied altogether for a meaningful AI use.
+been applied altogether for a meaningful habitual AI usage.
 
 ### beloved techs:
 
