@@ -5,6 +5,12 @@
 
 Just call me the go-to problem solver. Proficient in JS/TS and serving up solutions for companies since 2016.
 
+I am developing a blazingly awesome openai webapp with their API's
+levering user experience by making stronger connections with AI data
+applying graph theory conceps for the best of well structured data
+in order for features like full-text search and concept of notes remembering
+been applied altogether for a meaningful AI use.
+
 ### beloved techs:
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="50" height="50"> 
