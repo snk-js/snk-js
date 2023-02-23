@@ -3,10 +3,7 @@
 
 💻 Frontend Engineer
 
-Just call me the go-to problem solver. Proficient in JS/TS and serving up solutions for companies since 2016.
-
-I am developing a blazingly awesome openai webapp with their API's in my private repo
-Accept:       *help*
+Just call me the go-to problem solver. Proficient in JS/TS learning by doing since 2016.
 
 ### beloved techs:
 
