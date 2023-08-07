@@ -7,8 +7,7 @@ JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web. Wh
 
 My code is so aesthetics that QA team often calls davinci's code. 
 
-![giphy (1)](https://github.com/snk-js/snk-js/assets/34718184/bf4d0c0d-af46-4e08-9f14-248a294128b3)
-
+![giphy (2)](https://github.com/snk-js/snk-js/assets/34718184/e56b82fd-1588-416b-b028-88e63d304d07)
 
 ### beloved techs:
 
