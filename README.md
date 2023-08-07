@@ -3,9 +3,7 @@
 
 💻 Frontend Engineer
 
-JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web. When I'm not making pixels dance, I'm practicing the eloquent silence of sign language or defying gravity with Brazilian-style calisthenics.
-
-![giphy (2)](https://github.com/snk-js/snk-js/assets/34718184/e56b82fd-1588-416b-b028-88e63d304d07)
+JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web.
 
 ### beloved techs:
 
