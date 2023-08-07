@@ -5,8 +5,6 @@
 
 JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web. When I'm not making pixels dance, I'm practicing the eloquent silence of sign language or defying gravity with Brazilian-style calisthenics.
 
-My code is so aesthetics that QA team often calls davinci's code. 
-
 ![giphy (2)](https://github.com/snk-js/snk-js/assets/34718184/e56b82fd-1588-416b-b028-88e63d304d07)
 
 ### beloved techs:
