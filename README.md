@@ -3,9 +3,10 @@
 
 💻 Frontend Engineer
 
- Proficient in JS/TS designing and developing modern UI's in Web and make coffee
+JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web. When I'm not making pixels dance, I'm practicing the eloquent silence of sign language or defying gravity with Brazilian-style calisthenics.
 
-curiosity: I know how to speak
+![giphy](https://github.com/snk-js/snk-js/assets/34718184/d37f0425-af91-487e-b376-f8b9a78a4539)
+
 
 ### beloved techs:
 
