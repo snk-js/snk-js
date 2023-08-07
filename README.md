@@ -3,7 +3,9 @@
 
 💻 Frontend Engineer
 
-Just call me the go-to problem solver. Proficient in JS/TS learning by doing since 2016.
+ Proficient in JS/TS designing and developing modern UI's in Web and make coffee
+
+curiosity: I know how to speak
 
 ### beloved techs:
 
