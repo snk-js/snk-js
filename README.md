@@ -13,7 +13,7 @@ coffee and intelectuality. Embrace the universe 🍷🗿🌿`
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte&logoColor=FF3E00)&nbsp;
 ![next.js](https://img.shields.io/badge/-next.js-05122A?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular2-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular3-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=threedotjs&logoColor=000000)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡤⠤⠤⠤⣤⣤⣤⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
