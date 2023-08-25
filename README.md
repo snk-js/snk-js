@@ -2,10 +2,11 @@
 ### Hi there, I'm Juliano 👋
 
 💻 Frontend Engineer
-JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web.
 
-just excentric outlier player in life maximizing existence through the art of computer programming,
-coffee and intelectuality. Embrace the universe 🍷🗿🌿
+- JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web.
+
+`just excentric outlier player in life maximizing existence through the art of computer programming,
+coffee and intelectuality. Embrace the universe 🍷🗿🌿`
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typeScript&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
