@@ -2,6 +2,11 @@
 ### Hi there, I'm Juliano 👋
 
 💻 Frontend Engineer
+JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web.
+
+just excentric outlier player in life maximizing existence through the art of computer programming,
+coffee and intelectuality. Embrace the universe 🍷🗿🌿
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typeScript&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
@@ -10,11 +15,6 @@
 ![Angular](https://img.shields.io/badge/-Angular2-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=threedotjs&logoColor=000000)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=43853D)&nbsp;
-JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web.
-
-just excentric outlier player in life maximizing existence through the art of computer programming,
-coffee and intelectuality. Embrace the universe 🍷🗿🌿
-^
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡤⠤⠤⠤⣤⣤⣤⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠿⣷⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣶⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⣀⡀⠀⠀⠉⠛⢿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
