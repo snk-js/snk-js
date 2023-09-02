@@ -56,7 +56,7 @@ other special Skills:
 - GLSL
 - Solid.js
 - 3D game development
-- Gamification (love to gamify platforms)
+- Gamification
 - Chess engines
 - Chess programming
 - Sign language (or hand talk)
