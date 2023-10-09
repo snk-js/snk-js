@@ -5,8 +5,6 @@
 
 - JavaScript/TypeScript maestro crafting pixel-perfect, modern UIs for the web.
 
-<a href="https://app.bounties4.com/@/JulianoSilva" target="_blank"><img title="bounties4.com/@/JulianoSilva" alt="bounties4.com/@/JulianoSilva" src="https://storage.googleapis.com/profile_avatar/production/106427795451404524985/1696627229703_badge.png" width="400" height="400" /></a>
-
 `  Navigating life's eccentric game with code, coffee, and curious intellect. 
 Embrace the universe 🍷🗿🌿    `
 
