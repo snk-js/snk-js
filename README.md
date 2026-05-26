@@ -31,7 +31,6 @@ other special Skills:
 - Gamification
 - Chess engines
 - Chess programming
-- Sign language (or hand talk)
 
 <p >
  <img 
